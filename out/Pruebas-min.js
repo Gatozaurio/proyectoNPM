@@ -1,0 +1,1 @@
+"use strict";var s=new String("rafa");var longitud=s.length;var pos=s.indexOf("fa");var a=[1,2,3,4,5,6];a.color="azul";a.color;a.push(7);delete a[2];var nombre="Alberto";var apellido="Távora";console.log("Mi nombre es "+nombre+" y mi apellido "+apellido);
